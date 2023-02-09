@@ -18,4 +18,7 @@ My first few projects were small and simple, such as a CRM system with a silly n
 
 However, I soon realized that PHP had a lot of potential, and I wanted to delve deeper into it. That's when I discovered Laravel, a PHP framework for web application development. The lockdown period provided me with ample time to learn and experiment with Laravel, and I was thoroughly impressed by its capabilities. Laravel made it easier for me to build complex web applications, and I was able to bring my ideas to life with much more ease and efficiency.
 
+I have been using Laravel for over a year now, and I have built several projects using it. I have also created projects such as waddle, a social media platform similar to Twitter, and a CRM system with a silly name. A bulk email sender(with no name),
+A marks entry website called project phase, A Todo app called todo app, Guild, a upgraded version of waddle, and a few more.
+
 In conclusion, my journey as a software developer has been filled with ups and downs, and a lot of trial and error. However, I am grateful for the opportunities that have come my way, and I am excited to see where my skills will take me in the future. Whether it's frontend development, PHP, or any other technology, I am always eager to learn and expand my horizons.
